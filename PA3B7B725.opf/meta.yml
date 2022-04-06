@@ -1,0 +1,70 @@
+id: PA3B7B725
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1PD108254
+  instance_id: http://purl.bdrc.io/resource/IE1PD108254
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - གསུང་འབུམ། ཀུན་བཟང་བདེ་སྐྱོང་དབང་མོ།
+  alt_title:
+    zh-latn-pinyin-x-ndia:
+    - wei sa . kan zhuo wen ji
+    en-x-mixed:
+    - Zab gsaṅ theg pa mchog gi rnal ʼbyor ma chen po dbus bzaʼ mkhaʼ ʼgro Kuṅ-bzaṅ-bde-skyoṅ-dbaṅ-mo-bde-baʼi-rdo-rjeʼi
+      gsuṅ ʼbum legs bśad nor buʼi me luṅ bźugs /Mgo-log Khul Gnaʼ-rtsom Bya-baʼi
+      Gźuṅ-las-khaṅℓgis tshol sdud dag sgrig byas.
+  author: http://purl.bdrc.io/resource/P742
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    0b371823b0b44ce99db17b6c307ea5b5:
+      title: པོད ༢་གསུང་འབུམ། ཀུན་བཟང་བདེ་སྐྱོང་དབང་མོ།
+      volume_number: 2
+      base_file: UT1PD108254_I1PD108257_0000.txt
+      reference: http://purl.bdrc.io/resource/VLBA00AF2C837178BB
+      image_group: I1PD108257
+      quality: Low
+    0e490de27923493bb22de6191f17a34d:
+      title: པོད ༣་གསུང་འབུམ། ཀུན་བཟང་བདེ་སྐྱོང་དབང་མོ།
+      volume_number: 3
+      base_file: UT1PD108254_I1PD108258_0000.txt
+      reference: http://purl.bdrc.io/resource/VLED4396A456E243FB
+      image_group: I1PD108258
+      quality: Low
+    64c2be60feca4e81a31d1d65d71bd370:
+      title: པོད ༤་གསུང་འབུམ། ཀུན་བཟང་བདེ་སྐྱོང་དབང་མོ།
+      volume_number: 4
+      base_file: UT1PD108254_I1PD108259_0000.txt
+      reference: http://purl.bdrc.io/resource/VL7238051D1E90952D
+      image_group: I1PD108259
+      quality: Low
+    adda0acaa93c406cbc5e811e6192cf11:
+      title: པོད ༡་གསུང་འབུམ། ཀུན་བཟང་བདེ་སྐྱོང་དབང་མོ།
+      volume_number: 1
+      base_file: UT1PD108254_I1PD108256_0000.txt
+      reference: http://purl.bdrc.io/resource/VL56F31BC970F26F3F
+      image_group: I1PD108256
+      quality: Low
+    5970d482ff5a488dacfb784ae852c041:
+      title: པོད ༥་གསུང་འབུམ། ཀུན་བཟང་བདེ་སྐྱོང་དབང་མོ།
+      volume_number: 5
+      base_file: UT1PD108254_I1PD108260_0000.txt
+      reference: http://purl.bdrc.io/resource/VLABB206F932FEE348
+      image_group: I1PD108260
+      quality: Low
+    1e9cd6d708804793b23eaad3226fc351:
+      title: པོད ༦་གསུང་འབུམ། ཀུན་བཟང་བདེ་སྐྱོང་དབང་མོ།
+      volume_number: 6
+      base_file: UT1PD108254_I1PD108261_0000.txt
+      reference: http://purl.bdrc.io/resource/VL2549B91841735186
+      image_group: I1PD108261
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW1PD108254
+  - http://purl.bdrc.io/resource/W1PD108254
+  ocr_software: Namsel
+created_at: '2021-12-22T11:03:15.536674'
+last_modified_at: '2021-12-22T11:03:15.536681'
